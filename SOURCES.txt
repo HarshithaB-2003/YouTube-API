@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+YouTube_API.egg-info/PKG-INFO
+YouTube_API.egg-info/SOURCES.txt
+YouTube_API.egg-info/dependency_links.txt
+YouTube_API.egg-info/top_level.txt
+tests/test_data_api.py
+tests/test_transcript_api.py

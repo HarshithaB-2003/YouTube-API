@@ -1,0 +1,15 @@
+1. YouTube Data API License
+The YouTube Data API is provided by Google under the terms and conditions specified in their API Terms of Service. Here are some key points:
+
+Acceptable Use: You are required to comply with all applicable laws and regulations, including data protection laws, when using the YouTube Data API.
+API Usage: The API can be used to access YouTube content and data, but there are restrictions on modifying, copying, or storing certain data.
+Attribution: You must provide appropriate attribution to YouTube when displaying content retrieved via the API.
+Rate Limits: There are limits on the number of API requests you can make, and you should respect these to avoid penalties.
+Data Privacy: Any data collected through the API must be handled in compliance with Google’s privacy policy.
+2. YouTube Transcript API License
+The YouTube Transcript API is a third-party library, which is open-source and typically distributed under the MIT License. Here’s a summary of the MIT License terms:
+
+Permission: The MIT License allows you to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software.
+Attribution: You must include the original copyright notice and a copy of the license in any substantial portions of the software.
+Liability: The software is provided "as is", without warranty of any kind. The authors are not liable for any damages or issues arising from its use.
+You can find the license information for the YouTube Transcript API here.
